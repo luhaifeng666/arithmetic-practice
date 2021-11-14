@@ -1,12 +1,9 @@
 ---
 home: true
+heroImage: /images/logo.png
 ---
 
 <div align="center">
-
-![Arithemetic](.vitepress/public/images/logo.png)
-
-# Arithemetic
 
 算法练习笔记
 

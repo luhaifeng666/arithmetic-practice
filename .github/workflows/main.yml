@@ -42,6 +42,6 @@ jobs:
           # 推送的分支
           publish_branch: gh-pages
           # 推送的内容
-          publish_dir: docs/.vitepress/dist
+          publish_dir: docs/.vuepress/dist
 
 
