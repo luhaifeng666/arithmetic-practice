@@ -61,6 +61,9 @@ const config = {
 	title: 'Arithmetic',
 	description: ' ',
 	base: '/arithmetic-practice/',
+	head: [
+		['link', { rel: 'icon', href: '/images/favicon.ico' }]
+	],
 	markdown: {
 		lineNumbers: true
 	},
