@@ -1,6 +1,6 @@
 
 const fs = require('fs')
-const BASE_URL = './docs/views/'
+const BASE_URL = './docs/notes/'
 
 let getFiles = function(type) {
 	let baseUrl = type && `${type.split('/')[1]}/`
@@ -11,38 +11,18 @@ let getFiles = function(type) {
 }
 let sidebar = {}
 const pageConfig = [
-	// {
-	// 	name: '/views/CSS3Note/',
-	// 	baseUrl: 'CSS3Note/',
-	// 	pathes: ['', {
-	// 		name: '背景与边框',
-	// 		url: 'backgroundAndBorder'
-	// 	}, {
-	// 		name: '201907归档',
-	// 		url: '201907'
-	// 	}]
-	// },
-	// {
-	// 	name: '/views/JSNote/',
-	// 	baseUrl: 'JSNote/',
-	// 	pathes: ['', {
-	// 		name: '201907归档',
-	// 		url: '201907'
-	// 	},{
-	// 		name: 'Nodejs',
-	// 		url: 'Nodejs'
-	// 	},{
-	// 		name: '数据结构与算法',
-	// 		url: 'DataStructureAndAlgorithm'
-	// 	},{
-	// 		name: 'TypeScript',
-	// 		url: 'TypeScript'
-	// 	}]
-	// }
+	{
+		name: '/notes/exercises/',
+		baseUrl: 'exercises/',
+		paths: ['', {
+			name: '数组',
+			url: 'array'
+		}]
+	},
 ]
 pageConfig.forEach(item => {
 	sidebar[item.name] = []
-	item.pathes.forEach(path => {
+	item.paths.forEach(path => {
 		if(path) {
 			let children = getFiles(`${item.baseUrl}${path.url}`)
 			let conf = {
@@ -70,15 +50,10 @@ const config = {
 	themeConfig: {
 		lastUpdated: 'Last Updated',
 		sidebarDepth: 2,
-		sidebar: {
-			'/notes/': [
-				'',
-				'twoSum'
-			]
-		},
+		sidebar,
 		nav: [
 			{ text: 'Home', link: '/' },
-			{ text: 'Notes', link: '/notes/' },
+			{ text: 'Notes', link: '/notes/exercises/' },
 			{ text: 'GitHub', link: 'https://github.com/luhaifeng666/arithmetic-practice' },
 		],
 	}
