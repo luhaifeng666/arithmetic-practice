@@ -22,6 +22,5 @@ export default function removeDuplicates(nums?: Array<number>): number {
       nums[L] = nums[i]
     }
   }
-  nums.length = L + 1
   return L + 1
 }
