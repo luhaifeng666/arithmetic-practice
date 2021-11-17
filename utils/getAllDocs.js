@@ -12,7 +12,7 @@ const exercisesFiles = sidebar[`${baseDir}`].reduce((files, item) => {
 	return files
 }, [])
 module.exports = exercisesFiles.map(fileDir => {
-	const content = fs.readFileSync(path.resolve(__dirname, `docs${baseDir}${fileDir}`), {
+	const content = fs.readFileSync(path.resolve(__dirname, '../', `docs${baseDir}${fileDir}`), {
 		encoding: 'utf-8'
 	})
 	const { children } = parse(content)

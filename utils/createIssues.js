@@ -7,23 +7,25 @@ const octokit = new Octokit({ auth })
 
 // 定义项目通用参数
 const REPO_INFO = {
-	owner: "octocat",
-	repo: "hello-world"
+	owner: "luhaifeng666",
+	repo: "arithmetic-practice"
 }
 // 获取所有issues
-let issuesList = []
-const allIssues = octokit.paginate.iterator(octokit.rest.issues.listForRepo, {
-	...REPO_INFO,
-	per_page: 100,
-})
-
-for await (const { data: issues } of allIssues) {
-	issuesList = issues.map(issue => issue.name)
+let allIssues = []
+async function getAllIssues () {
+	return await octokit.paginate(octokit.rest.issues.listForRepo, {
+		...REPO_INFO,
+		per_page: 100,
+	});
 }
+getAllIssues().then(data => {
+	allIssues = data
+}).catch(err => { console.log(err) })
 
+
+let issuesList = allIssues.map(issue => issue.title)
 // 获取没有创建issue的标题
 const titles = docs.filter(title => !issuesList.includes(title))
-
 // 将没有创建issue的算法都创建对应的issue
 titles.forEach(title => {
 	octokit.rest.issues.create({
