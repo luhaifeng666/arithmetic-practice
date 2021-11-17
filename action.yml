@@ -1,0 +1,9 @@
+name: 'GET TOKEN'
+description: 'Get secrets token'
+inputs:
+  token:  # secrets token
+    description: 'Get secrets token'
+    required: true
+runs:
+  using: 'node14'
+  main: 'dist/index.js'
