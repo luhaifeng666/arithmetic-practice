@@ -26,5 +26,5 @@ jobs:
       - name: Create an issue
         uses: ./
         with:
-          token: ${{ secrets.ARITHMETIC }}
+          token: ${{ secrets.TOKEN }}
 
