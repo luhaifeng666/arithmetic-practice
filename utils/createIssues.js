@@ -11,7 +11,6 @@ const REPO_INFO = {
 	repo: "arithmetic-practice"
 }
 // 获取所有issues
-let allIssues = []
 async function getAllIssues () {
 	return await octokit.paginate(octokit.rest.issues.listForRepo, {
 		...REPO_INFO,
@@ -19,18 +18,17 @@ async function getAllIssues () {
 	});
 }
 getAllIssues().then(data => {
-	allIssues = data
+	if (data && data.length) {
+		let issuesList = data.map(issue => issue.title)
+		// 获取没有创建issue的标题
+		const titles = docs.filter(title => !issuesList.includes(title))
+		// 将没有创建issue的算法都创建对应的issue
+		titles.forEach(title => {
+			octokit.rest.issues.create({
+				...REPO_INFO,
+				title,
+				body: `关于${title}的更多解法，欢迎在issue中讨论~`
+			});
+		})
+	}
 }).catch(err => { console.log(err) })
-
-
-let issuesList = allIssues.map(issue => issue.title)
-// 获取没有创建issue的标题
-const titles = docs.filter(title => !issuesList.includes(title))
-// 将没有创建issue的算法都创建对应的issue
-titles.forEach(title => {
-	octokit.rest.issues.create({
-		...REPO_INFO,
-		title,
-		body: `关于${title}的更多解法，欢迎在issue中讨论~`
-	});
-})
