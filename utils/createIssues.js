@@ -1,6 +1,6 @@
 const { Octokit } = require("octokit");
 const core = require('@actions/core');
-const docs = require('./getAllDocs')
+const { docs } = require('./getAllDocs')
 
 const auth = core.getInput('token')
 const octokit = new Octokit({ auth })
@@ -21,7 +21,7 @@ getAllIssues().then(data => {
 	if (data && data.length) {
 		let issuesList = data.map(issue => issue.title)
 		// 获取没有创建issue的标题
-		const titles = docs.filter(title => !issuesList.includes(title))
+		const titles = docs.filter(doc => !issuesList.includes(doc.title))
 		// 将没有创建issue的算法都创建对应的issue
 		titles.forEach(title => {
 			octokit.rest.issues.create({

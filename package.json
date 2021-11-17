@@ -11,10 +11,11 @@
     "docs:build": "vuepress build docs",
     "docs:serve": "vuepress serve docs",
     "deploy": "bash deploy.sh",
-    "ca": "git add -A && git-cz -av",
+    "ca": "yarn init:readme && git add -A && git-cz -av",
     "commit": "git-cz",
     "test": "jest",
-    "build": "ncc build utils/createIssues.js --license licenses.txt"
+    "build": "ncc build utils/createIssues.js --license licenses.txt",
+    "init:readme": "node utils/initReadme.js"
   },
   "devDependencies": {
     "@actions/core": "^1.6.0",
