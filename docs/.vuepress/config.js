@@ -17,8 +17,11 @@ const pageConfig = [
 		paths: ['', {
 			name: '数组',
 			url: 'array'
+		}, {
+			name: '栈',
+			url: 'stack'
 		}]
-	},
+	}
 ]
 pageConfig.forEach(item => {
 	sidebar[item.name] = []
