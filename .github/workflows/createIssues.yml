@@ -22,7 +22,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Create an issue
-        uses: octocat/hello-world-javascript-action@v1.1
+        uses: luhaifeng666/arithmetic-practice
         with:
           token: ${{ secrets.ARITHMETIC }}
 
