@@ -23,7 +23,8 @@ getAllIssues().then(data => {
 		// 获取没有创建issue的标题
 		const titles = docs.filter(doc => !issuesList.includes(doc.title))
 		// 将没有创建issue的算法都创建对应的issue
-		titles.forEach(title => {
+		titles.forEach(item => {
+			const { title } = item
 			octokit.rest.issues.create({
 				...REPO_INFO,
 				title,
