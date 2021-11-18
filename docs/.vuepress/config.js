@@ -20,6 +20,9 @@ const pageConfig = [
 		}, {
 			name: '栈',
 			url: 'stack'
+		}, {
+			name: '字符串',
+			url: 'string'
 		}]
 	}
 ]

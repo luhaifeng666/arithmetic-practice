@@ -15,7 +15,7 @@ async function getAllIssues () {
 	return await octokit.paginate(octokit.rest.issues.listForRepo, {
 		...REPO_INFO,
 		per_page: 100,
-	});
+	})
 }
 getAllIssues().then(data => {
 	if (data && data.length) {

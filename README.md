@@ -17,3 +17,5 @@
   - [两数之和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/twoSum.html)
 - 栈
   - [有效的括号](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/stack/isValid.html)
+- 字符串
+  - [反转字符串](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/reverseString.html)
