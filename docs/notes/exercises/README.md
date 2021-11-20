@@ -8,6 +8,7 @@ title: 算法练习
 		
 - 数组
   - [存在重复元素](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/containsDuplicate.html)
+  - [加一](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/plusOne.html)
   - [删除排序数组中的重复项](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/removeDuplicates.html)
   - [两数之和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/twoSum.html)
 - 栈

@@ -11,6 +11,7 @@ const README_CONFIG = [
 ![octokit](https://img.shields.io/badge/octokit-%5E1.7.0-lightgrey)
 ![typescript](https://img.shields.io/badge/typescript-%5E4.4.2-blue)
 ![vuepress](https://img.shields.io/badge/vuepress-%5E1.8.2-brightgreen)
+![coverage](https://img.shields.io/badge/coverage-96.61%25-green)
 
 算法练习笔记, 从零开始，（争取）每日一题！冲！欢迎⭐️！
 

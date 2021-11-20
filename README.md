@@ -5,6 +5,7 @@
 ![octokit](https://img.shields.io/badge/octokit-%5E1.7.0-lightgrey)
 ![typescript](https://img.shields.io/badge/typescript-%5E4.4.2-blue)
 ![vuepress](https://img.shields.io/badge/vuepress-%5E1.8.2-brightgreen)
+![coverage](https://img.shields.io/badge/coverage-96.61%25-green)
 
 算法练习笔记, 从零开始，（争取）每日一题！冲！欢迎⭐️！
 
@@ -14,6 +15,7 @@
 		
 - 数组
   - [存在重复元素](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/containsDuplicate.html)
+  - [加一](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/plusOne.html)
   - [删除排序数组中的重复项](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/removeDuplicates.html)
   - [两数之和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/twoSum.html)
 - 栈

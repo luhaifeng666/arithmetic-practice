@@ -13,7 +13,7 @@
     "deploy": "bash deploy.sh",
     "ca": "yarn init:readme && git add -A && git-cz -av",
     "commit": "git-cz",
-    "test": "jest",
+    "test": "jest --coverage",
     "build": "ncc build utils/createIssues.js --license licenses.txt",
     "init:readme": "node utils/initReadme.js"
   },
