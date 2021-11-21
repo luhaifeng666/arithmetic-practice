@@ -10,6 +10,7 @@ title: 算法练习
   - [存在重复元素](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/containsDuplicate.html)
   - [加一](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/plusOne.html)
   - [删除排序数组中的重复项](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/removeDuplicates.html)
+  - [旋转数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/rotate.html)
   - [两数之和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/twoSum.html)
 - 栈
   - [有效的括号](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/stack/isValid.html)
