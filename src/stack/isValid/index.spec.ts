@@ -19,6 +19,9 @@ const TEST_CASES = [
   }, {
     s: '{([])}',
     res: true
+  }, {
+    s: '{([])',
+    res: false
   }
 ]
 

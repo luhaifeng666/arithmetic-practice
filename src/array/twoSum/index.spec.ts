@@ -5,9 +5,9 @@ const TEST_CASES = [{
     target: 6,
     res: [1, 2]
 }, {
-    nums: [2,7,11,15],
+    nums: [2,11,7,15],
     target: 9,
-    res: [0, 1]
+    res: [0, 2]
 }, {
     nums: [3,3],
     target: 6,
@@ -16,6 +16,10 @@ const TEST_CASES = [{
     nums: [0, 1, 2, 0],
     target: 0,
     res: [0, 3]
+}, {
+    nums: [],
+    target: 0,
+    res: []
 }]
 
 interface Case {
