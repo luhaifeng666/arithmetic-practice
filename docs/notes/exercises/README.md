@@ -9,6 +9,7 @@ title: 算法练习
 - 数组
   - [存在重复元素](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/containsDuplicate.html)
   - [两个数组的交集 II](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/intersect.html)
+  - [移动零](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/moveZeroes.html)
   - [加一](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/plusOne.html)
   - [删除排序数组中的重复项](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/removeDuplicates.html)
   - [旋转数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/rotate.html)

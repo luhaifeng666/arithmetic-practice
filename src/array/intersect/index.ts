@@ -8,7 +8,7 @@
  * @param {number[]} nums2
  * @return {number[]}
  */
-export default function intersect (nums1: number[], nums2: number[]): number[] {
+export default function (nums1: number[], nums2: number[]): number[] {
   // 生成map，存储每个值对应的个数
   const map = new Map()
   for(let i = 0; i < nums1.length; i++) {

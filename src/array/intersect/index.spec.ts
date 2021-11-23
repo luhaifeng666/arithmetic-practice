@@ -8,7 +8,7 @@ const TEST_CASES = [
   }, {
     nums1: [4,9,5],
     nums2: [9,4,9,8,4],
-    res: [4,9]
+    res: [9,4]
   }
 ]
 
