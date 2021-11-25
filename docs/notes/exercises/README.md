@@ -18,4 +18,5 @@ title: 算法练习
 - 栈
   - [有效的括号](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/stack/isValid.html)
 - 字符串
+  - [整数反转](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/reverse.html)
   - [反转字符串](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/reverseString.html)
