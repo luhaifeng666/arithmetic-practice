@@ -14,10 +14,7 @@ function reverseByString (x: number): number {
   const isNegative = x < 0
   // 翻转数字字符串
   const numberStr = (x + '').split('-').map((num:string) => {
-    if (!isNaN(Number(num))) {
-      return num.split('').reverse().join('')
-    }
-    return num
+    return num.split('').reverse().join('')
   }).join('')
   // 如果超出范围限制，返回0
   if (Number(numberStr) < Math.pow(-2, 31) || Number(numberStr) > Math.pow(2, 31) - 1) return 0
