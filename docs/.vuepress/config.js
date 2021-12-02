@@ -23,6 +23,9 @@ const pageConfig = [
 		}, {
 			name: '字符串',
 			url: 'string'
+		}, {
+			name: '链表',
+			url: 'chainTable'
 		}]
 	}
 ]
