@@ -24,7 +24,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Install packages
-        run: yarn
+        run: npm i
       - name: Create an issue
         uses: ./
         with:
