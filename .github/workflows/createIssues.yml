@@ -24,7 +24,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Install packages
-        run: npm install --registry=https://registry.npm.taobao.org
+        run: yarn
       - name: Create an issue
         uses: ./
         with:
