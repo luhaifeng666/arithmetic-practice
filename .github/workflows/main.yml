@@ -43,5 +43,10 @@ jobs:
           publish_branch: gh-pages
           # 推送的内容
           publish_dir: docs/.vuepress/dist
+      # 创建issue
+      - name: Create an issue
+        uses: ./
+        with:
+          token: ${{ secrets.TOKEN }}
 
 
