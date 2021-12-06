@@ -52,5 +52,5 @@ export default function(n: number): string[] {
     }
   }
   return results
-};
+}
 ```

@@ -27,6 +27,9 @@ const pageConfig = [
 			name: '链表',
 			url: 'chainTable'
 		}, {
+			name: '数学',
+			url: 'math'
+		}, {
 			name: '其他',
 			url: 'other'
 		}]
