@@ -36,5 +36,6 @@
   - [删除链表中的节点](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/deleteNode.html)
 - 数学
   - [Fizz Buzz](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/fuzzBuzz.html)
+  - [3的幂](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/isPowerOfThree.html)
 - 其他
   - [位1的个数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/hammingWeight.html)
