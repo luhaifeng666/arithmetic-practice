@@ -30,3 +30,4 @@ title: 算法练习
   - [3的幂](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/isPowerOfThree.html)
 - 其他
   - [位1的个数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/hammingWeight.html)
+  - [颠倒二进制位](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/reverseBits.html)
