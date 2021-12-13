@@ -39,6 +39,8 @@
 - 数学
   - [Fizz Buzz](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/fuzzBuzz.html)
   - [3的幂](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/isPowerOfThree.html)
+- 排序和搜索
+  - [第一个错误的版本](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/sort/isBadVersion.html)
 - 其他
   - [位1的个数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/hammingWeight.html)
   - [颠倒二进制位](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/reverseBits.html)

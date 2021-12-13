@@ -30,6 +30,9 @@ const pageConfig = [
 			name: '数学',
 			url: 'math'
 		}, {
+			name: '排序和搜索',
+			url: 'sort'
+		}, {
 			name: '其他',
 			url: 'other'
 		}]
