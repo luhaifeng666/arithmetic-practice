@@ -33,6 +33,7 @@ title: 算法练习
 - 排序和搜索
   - [第一个错误的版本](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/sort/isBadVersion.html)
 - 其他
+  - [杨辉三角](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/generate.html)
   - [汉明距离](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/hammingDistance.html)
   - [位1的个数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/hammingWeight.html)
   - [颠倒二进制位](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/reverseBits.html)
