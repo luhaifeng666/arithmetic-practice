@@ -39,7 +39,6 @@
 - 数学
   - [计数质数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/countPrimes.html)
   - [Fizz Buzz](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/fuzzBuzz.html)
-  - [](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/img..html)
   - [3的幂](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/isPowerOfThree.html)
 - 排序和搜索
   - [第一个错误的版本](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/sort/isBadVersion.html)

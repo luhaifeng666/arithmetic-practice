@@ -28,7 +28,7 @@
 
 ## 题解
 ::: tip 解题思路
-![img.png](img.png)
+![img.png](../../../.vuepress/public/images/countPrimes.png)
 :::
 
 ```ts
