@@ -22,6 +22,7 @@ title: 算法练习
 - 字符串
   - [字符串中的第一个唯一字符](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/firstUniqChar.html)
   - [验证回文串](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/isPalindrome.html)
+  - [最长公共前缀](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/longestCommonPrefix.html)
   - [整数反转](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/reverse.html)
   - [反转字符串](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/reverseString.html)
   - [实现 strStr()](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/strStr.html)
