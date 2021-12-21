@@ -26,6 +26,8 @@
   - [旋转数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/rotate.html)
   - [只出现一次的数字](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/singleNumber.html)
   - [两数之和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/twoSum.html)
+- 树
+  - [二叉树的前序遍历](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/preorderTraversal.html)
 - 栈
   - [有效的括号](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/stack/isValid.html)
 - 字符串

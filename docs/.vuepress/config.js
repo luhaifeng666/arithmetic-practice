@@ -18,6 +18,9 @@ const pageConfig = [
 			name: '数组',
 			url: 'array'
 		}, {
+			name: '树',
+			url: 'tree'
+		}, {
 			name: '栈',
 			url: 'stack'
 		}, {
