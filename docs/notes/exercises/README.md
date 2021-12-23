@@ -34,6 +34,7 @@ title: 算法练习
   - [计数质数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/countPrimes.html)
   - [Fizz Buzz](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/fuzzBuzz.html)
   - [3的幂](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/isPowerOfThree.html)
+  - [罗马数字转整数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/romanToInt.html)
 - 排序和搜索
   - [第一个错误的版本](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/sort/isBadVersion.html)
 - 其他
