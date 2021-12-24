@@ -30,6 +30,7 @@
   - [二叉树的前序遍历](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/preorderTraversal.html)
 - 栈
   - [有效的括号](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/stack/isValid.html)
+  - [最小栈](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/stack/minStack.html)
 - 字符串
   - [字符串中的第一个唯一字符](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/firstUniqChar.html)
   - [验证回文串](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/isPalindrome.html)
