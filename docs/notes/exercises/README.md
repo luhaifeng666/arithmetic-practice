@@ -25,6 +25,7 @@ title: 算法练习
   - [最小栈](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/stack/minStack.html)
 - 字符串
   - [字符串中的第一个唯一字符](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/firstUniqChar.html)
+  - [有效的字母异位词](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/isAnagram.html)
   - [验证回文串](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/isPalindrome.html)
   - [最长公共前缀](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/longestCommonPrefix.html)
   - [整数反转](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/reverse.html)
