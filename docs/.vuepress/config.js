@@ -84,7 +84,6 @@ const config = {
 			{
 				choosen: 'valine',
 				options: {
-					id: '<%- frontmatter.commentid || frontmatter.permalink %>',
 					el: '#valine-vuepress-comment',
 					appId: 'frgkHsrvs3GlDqBrcbvqo3mc-9Nh9j0Va',
 					appKey: 'hkzBjVUXzCO3uyELHjKdUny8'
