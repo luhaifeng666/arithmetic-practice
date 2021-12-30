@@ -48,7 +48,6 @@ pageConfig.forEach(item => {
 			let children = getFiles(`${item.baseUrl}${path.url}`)
 			let conf = {
 				title: path.name,
-				collapsable: false,
 				children
 			}
 			sidebar[item.name].push(conf)
