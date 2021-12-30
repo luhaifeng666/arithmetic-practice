@@ -77,7 +77,21 @@ const config = {
 			{ text: 'Notes', link: '/notes/exercises/' },
 			{ text: 'GitHub', link: 'https://github.com/luhaifeng666/arithmetic-practice' },
 		],
-	}
+	},
+	plugins: [
+		[
+			'vuepress-plugin-comment',
+			{
+				choosen: 'valine',
+				options: {
+					id: '<%- frontmatter.commentid || frontmatter.permalink %>',
+					el: '#valine-vuepress-comment',
+					appId: 'frgkHsrvs3GlDqBrcbvqo3mc-9Nh9j0Va',
+					appKey: 'hkzBjVUXzCO3uyELHjKdUny8'
+				}
+			}
+		]
+	]
 }
 
 module.exports = config
