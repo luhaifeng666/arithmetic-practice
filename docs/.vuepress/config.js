@@ -74,6 +74,7 @@ const config = {
 		nav: [
 			{ text: 'Home', link: '/' },
 			{ text: 'Notes', link: '/notes/exercises/' },
+			{ text: '酱豆腐精的小站', link: 'https://luhaifeng666.github.io' },
 			{ text: 'GitHub', link: 'https://github.com/luhaifeng666/arithmetic-practice' },
 		],
 	},
