@@ -28,6 +28,7 @@
   - [打乱数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/solution.html)
   - [两数之和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/twoSum.html)
 - 树
+  - [二叉树的最大深度](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/maxDepth.html)
   - [二叉树的前序遍历](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/preorderTraversal.html)
 - 栈
   - [有效的括号](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/stack/isValid.html)
