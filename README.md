@@ -29,6 +29,7 @@
   - [两数之和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/twoSum.html)
 - 树
   - [验证二叉搜索树](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/isValidBST.html)
+  - [二叉树的层序遍历](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/levelNode.html)
   - [二叉树的最大深度](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/maxDepth.html)
   - [二叉树的前序遍历](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/preorderTraversal.html)
 - 栈
