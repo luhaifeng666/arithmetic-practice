@@ -19,6 +19,7 @@ title: 算法练习
   - [打乱数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/solution.html)
   - [两数之和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/twoSum.html)
 - 树
+  - [对称二叉树](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/isSymmetric.html)
   - [验证二叉搜索树](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/isValidBST.html)
   - [二叉树的层序遍历](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/levelNode.html)
   - [二叉树的最大深度](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/maxDepth.html)
