@@ -36,6 +36,9 @@ const pageConfig = [
 			name: '排序和搜索',
 			url: 'sort'
 		}, {
+			name: '动态规划',
+			url: 'dp'
+		}, {
 			name: '其他',
 			url: 'other'
 		}]

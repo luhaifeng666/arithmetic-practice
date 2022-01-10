@@ -55,6 +55,8 @@
   - [罗马数字转整数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/romanToInt.html)
 - 排序和搜索
   - [第一个错误的版本](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/sort/isBadVersion.html)
+- 动态规划
+  - [爬楼梯](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/dp/climbStairs.html)
 - 其他
   - [杨辉三角](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/generate.html)
   - [汉明距离](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/hammingDistance.html)
