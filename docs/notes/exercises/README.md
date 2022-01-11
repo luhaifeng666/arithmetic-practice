@@ -39,6 +39,7 @@ title: 算法练习
   - [实现 strStr()](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/strStr.html)
 - 链表
   - [删除链表中的节点](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/deleteNode.html)
+  - [删除链表的倒数第N个节点](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/removeNthFromEnd.html)
 - 数学
   - [计数质数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/countPrimes.html)
   - [Fizz Buzz](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/fuzzBuzz.html)
