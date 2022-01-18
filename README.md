@@ -48,6 +48,7 @@
   - [实现 strStr()](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/strStr.html)
 - 链表
   - [删除链表中的节点](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/deleteNode.html)
+  - [合并两个有序链表](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/mergeTwoLists.html)
   - [删除链表的倒数第N个节点](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/removeNthFromEnd.html)
   - [反转链表](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/reverseList.html)
 - 数学
