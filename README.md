@@ -61,6 +61,7 @@
   - [第一个错误的版本](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/sort/isBadVersion.html)
 - 动态规划
   - [爬楼梯](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/dp/climbStairs.html)
+  - [最大子序和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/dp/maxSubArray.html)
   - [打家劫舍](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/dp/rob.html)
 - 其他
   - [杨辉三角](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/generate.html)
