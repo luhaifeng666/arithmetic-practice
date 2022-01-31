@@ -46,6 +46,7 @@
   - [字符串转换整数 (atoi)](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/myAtoi.html)
   - [整数反转](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/reverse.html)
   - [反转字符串](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/reverseString.html)
+  - [将句子排序](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/sortSentence.html)
   - [实现 strStr()](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/strStr.html)
 - 链表
   - [删除链表中的节点](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/deleteNode.html)
