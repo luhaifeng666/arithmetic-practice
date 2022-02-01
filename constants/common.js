@@ -33,6 +33,15 @@ title: 算法练习
 ## 目录
 		
 `
+	}, {
+		target: path.resolve(__dirname, '../', 'docs/README.md'),
+		showTotal: true,
+		content: `---
+home: true
+heroImage: /images/logo.png
+---
+
+`
 	}
 ]
 

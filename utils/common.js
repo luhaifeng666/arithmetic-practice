@@ -8,19 +8,28 @@ const sidebarTree = docs.reduce((obj, doc) => ({
 	[doc.fileDir]: doc.title
 }), {})
 // 遍历生成目录结构
-const catalog = exercisesSidebar.slice(1).reduce((str, sidebar) => {
+const catalog = exercisesSidebar.slice(1).reduce((obj, sidebar) => {
 	const { title, children } = sidebar
 	let res = `- ${title}\n`
 	if (children && children.length) {
 		res += children.map(ch => `  - [${sidebarTree[ch]}](${baseUrl}${ch.slice(0, -3)}.html)`).join('\n')
 	}
-	return str + res + '\n'
-}, '')
+	obj.text += res + '\n'
+	obj.count += children.length
+	return obj
+}, {
+	text: '',
+	count: 0
+})
 
 // 将内容写入目标文档
-function writeReadme (target, baseContent = '') {
+function writeReadme ({ target, showTotal = false, content = '' }) {
 	// 将内容写入README.md
-	fs.writeFile(target, baseContent + catalog, {
+	fs.writeFile(target, content + (showTotal ? `<div align="center">
+
+算法练习笔记, 从零开始, 现在已练习 **${catalog.count} 道算法题** ！！（争取）每日一题！冲！欢迎⭐️！
+	
+</div>` : catalog.text), {
 		encoding: 'utf-8'
 	}, (err) => {
 		if (err) console.error(`Error: ${err}`)
