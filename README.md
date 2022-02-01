@@ -50,6 +50,7 @@
   - [实现 strStr()](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/strStr.html)
 - 链表
   - [删除链表中的节点](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/deleteNode.html)
+  - [环形链表](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/hasCycle.html)
   - [回文链表](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/isPalindrome.html)
   - [合并两个有序链表](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/mergeTwoLists.html)
   - [删除链表的倒数第N个节点](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/removeNthFromEnd.html)
