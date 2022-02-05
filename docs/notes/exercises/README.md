@@ -9,6 +9,7 @@ title: 算法练习
 - 数组
   - [存在重复元素](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/containsDuplicate.html)
   - [两个数组的交集 II](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/intersect.html)
+  - [有效的数独](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/isValidSudoku.html)
   - [买卖股票的最佳时机 II](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/maxProfit.html)
   - [合并两个有序数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/merge.html)
   - [缺失数字](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/missingNumber.html)
