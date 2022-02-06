@@ -45,9 +45,9 @@
 ```
 
 ::: tip 提示：
-board.length == 9
-board[i].length == 9
-board[i][j] 是一位数字（1-9）或者 '.'
+- board.length == 9
+- board[i].length == 9
+- board[i][j] 是一位数字（1-9）或者 '.'
 :::
 
 ## 题解
