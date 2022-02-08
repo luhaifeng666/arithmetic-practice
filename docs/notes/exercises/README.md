@@ -17,6 +17,7 @@ title: 算法练习
   - [加一](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/plusOne.html)
   - [删除排序数组中的重复项](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/removeDuplicates.html)
   - [旋转数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/rotate.html)
+  - [旋转图像](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/rotateImage.html)
   - [只出现一次的数字](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/singleNumber.html)
   - [打乱数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/solution.html)
   - [两数之和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/twoSum.html)
