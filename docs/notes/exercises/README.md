@@ -20,6 +20,7 @@ title: 算法练习
   - [旋转图像](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/rotateImage.html)
   - [只出现一次的数字](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/singleNumber.html)
   - [打乱数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/solution.html)
+  - [将有序数组转换为二叉搜索树](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/sortedArrayToBST.html)
   - [两数之和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/twoSum.html)
 - 树
   - [对称二叉树](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/isSymmetric.html)
