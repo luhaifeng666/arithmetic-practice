@@ -20,7 +20,6 @@ title: 算法练习
   - [旋转图像](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/rotateImage.html)
   - [只出现一次的数字](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/singleNumber.html)
   - [打乱数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/solution.html)
-  - [将有序数组转换为二叉搜索树](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/sortedArrayToBST.html)
   - [两数之和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/twoSum.html)
 - 树
   - [对称二叉树](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/isSymmetric.html)
@@ -28,6 +27,7 @@ title: 算法练习
   - [二叉树的层序遍历](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/levelNode.html)
   - [二叉树的最大深度](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/maxDepth.html)
   - [二叉树的前序遍历](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/preorderTraversal.html)
+  - [将有序数组转换为二叉搜索树](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/sortedArrayToBST.html)
 - 栈
   - [有效的括号](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/stack/isValid.html)
   - [最小栈](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/stack/minStack.html)
