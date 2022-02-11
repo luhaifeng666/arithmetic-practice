@@ -12,6 +12,7 @@ title: 算法练习
   - [有效的数独](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/isValidSudoku.html)
   - [买卖股票的最佳时机 II](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/maxProfit.html)
   - [合并两个有序数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/merge.html)
+  - [学生分数的最小差值](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/minimumDifference.html)
   - [缺失数字](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/missingNumber.html)
   - [移动零](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/moveZeroes.html)
   - [加一](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/plusOne.html)
