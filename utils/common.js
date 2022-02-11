@@ -10,11 +10,14 @@ const sidebarTree = docs.reduce((obj, doc) => ({
 // 遍历生成目录结构
 const catalog = exercisesSidebar.slice(1).reduce((obj, sidebar) => {
 	const { title, children } = sidebar
-	let res = `- ${title}\n`
+	let res = `<details>
+  <summary>${title}</summary>
+  
+`
 	if (children && children.length) {
 		res += children.map(ch => `  - [${sidebarTree[ch]}](${baseUrl}${ch.slice(0, -3)}.html)`).join('\n')
 	}
-	obj.text += res + '\n'
+	obj.text += res + '\n </details> \n'
 	obj.count += children.length
 	return obj
 }, {
