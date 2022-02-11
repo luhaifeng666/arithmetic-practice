@@ -23,17 +23,6 @@ const README_CONFIG = [
 		
 `
 	}, {
-		target: path.resolve(__dirname, '../', 'docs/notes/exercises/README.md'),
-		content: `---
-title: 算法练习
----
-
-整理的算法习题， 题目来源于[LeetCode](https://leetcode-cn.com/)。
-
-## 目录
-		
-`
-	}, {
 		target: path.resolve(__dirname, '../', 'docs/README.md'),
 		showTotal: true,
 		content: `---
