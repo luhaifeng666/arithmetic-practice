@@ -54,6 +54,7 @@
   <summary>字符串</summary>
   
   - [外观数列](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/countAndSay.html)
+  - [一周中的第几天](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/dayOfTheWeek.html)
   - [字符串中的第一个唯一字符](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/firstUniqChar.html)
   - [有效的字母异位词](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/isAnagram.html)
   - [验证回文串](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/isPalindrome.html)
