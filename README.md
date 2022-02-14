@@ -28,6 +28,7 @@
   - [移动零](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/moveZeroes.html)
   - [加一](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/plusOne.html)
   - [删除排序数组中的重复项](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/removeDuplicates.html)
+  - [移除元素](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/removeElement.html)
   - [旋转数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/rotate.html)
   - [旋转图像](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/rotateImage.html)
   - [只出现一次的数字](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/singleNumber.html)
