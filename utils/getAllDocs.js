@@ -16,7 +16,7 @@ const exercisesFiles = exercisesSidebar.reduce((files, item) => {
 }, [])
 
 const docs = exercisesFiles.map(fileDir => {
-	const content = fs.readFileSync(path.resolve(__dirname, '../', `docs${baseDir}${fileDir}`), {
+	const content = fs.readFileSync(path.resolve(__dirname, '../', `docs${fileDir}`), {
 		encoding: 'utf-8'
 	})
 	const { children } = parse(content)

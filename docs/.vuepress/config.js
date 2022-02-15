@@ -5,7 +5,7 @@ const BASE_URL = './docs/notes/'
 let getFiles = function(type) {
 	let baseUrl = type && `${type.split('/')[1]}/`
 	let urls = fs.readdirSync(`${BASE_URL}${type}`).map(item => {
-		return baseUrl + item
+		return `/notes/exercises/${baseUrl}${item}`
 	})
 	return urls
 }
@@ -14,7 +14,7 @@ const pageConfig = [
 	{
 		name: '/notes/exercises/',
 		baseUrl: 'exercises/',
-		paths: ['', {
+		paths: ['/notes/exercises/', {
 			name: '数组',
 			url: 'array'
 		}, {
@@ -47,10 +47,11 @@ const pageConfig = [
 pageConfig.forEach(item => {
 	sidebar[item.name] = []
 	item.paths.forEach(path => {
-		if(path) {
+		if(typeof(path) !== 'string') {
 			let children = getFiles(`${item.baseUrl}${path.url}`)
 			let conf = {
-				title: path.name,
+				text: path.name,
+				collapsible: true,
 				children
 			}
 			sidebar[item.name].push(conf)
@@ -74,7 +75,7 @@ const config = {
 		lastUpdated: 'Last Updated',
 		sidebarDepth: 2,
 		sidebar,
-		nav: [
+		navbar: [
 			{ text: 'Home', link: '/' },
 			{ text: 'Notes', link: '/notes/exercises/' },
 			{ text: '酱豆腐精的小站', link: 'https://luhaifeng666.github.io' },
@@ -92,6 +93,19 @@ const config = {
 					appKey: 'hkzBjVUXzCO3uyELHjKdUny8'
 				}
 			}
+		],
+		[
+			'@vuepress/plugin-search',
+			{
+				locales: {
+					'/': {
+						placeholder: 'Search',
+					},
+					'/zh/': {
+						placeholder: '搜索',
+					},
+				},
+			},
 		]
 	]
 }
