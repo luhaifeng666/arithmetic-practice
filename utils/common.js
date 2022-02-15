@@ -1,7 +1,7 @@
 const fs = require("fs");
 const {exercisesSidebar, docs} = require("./getAllDocs")
 
-const baseUrl = 'https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/'
+const baseUrl = 'https://luhaifeng666.github.io/arithmetic-practice'
 // 生成文档地址跟名称的对应关系字典
 const sidebarTree = docs.reduce((obj, doc) => ({
 	...obj,
@@ -9,9 +9,9 @@ const sidebarTree = docs.reduce((obj, doc) => ({
 }), {})
 // 遍历生成目录结构
 const catalog = exercisesSidebar.slice(1).reduce((obj, sidebar) => {
-	const { title, children } = sidebar
+	const { text, children } = sidebar
 	let res = `<details>
-  <summary>${title}</summary>
+  <summary>${text}</summary>
   
 `
 	if (children && children.length) {
