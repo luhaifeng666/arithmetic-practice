@@ -59,6 +59,7 @@
   - [字符串中的第一个唯一字符](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/firstUniqChar.html)
   - [有效的字母异位词](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/isAnagram.html)
   - [验证回文串](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/isPalindrome.html)
+  - [最后一个单词的长度](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/lengthOfLastWord.html)
   - [最长公共前缀](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/longestCommonPrefix.html)
   - [字符串转换整数 (atoi)](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/myAtoi.html)
   - [整数反转](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/reverse.html)
