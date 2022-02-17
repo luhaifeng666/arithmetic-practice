@@ -516,7 +516,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "爬楼梯",
+    "title": "杨辉三角",
     "headers": [
       {
         "level": 2,
@@ -531,12 +531,12 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/notes/exercises/dp/climbStairs.html",
+    "path": "/notes/exercises/other/generate.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "买卖股票的最佳时机",
+    "title": "汉明距离",
     "headers": [
       {
         "level": 2,
@@ -546,17 +546,23 @@ export const searchIndex = [
       },
       {
         "level": 2,
-        "title": "题解",
-        "slug": "题解",
+        "title": "解法一",
+        "slug": "解法一",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "解法二",
+        "slug": "解法二",
         "children": []
       }
     ],
-    "path": "/notes/exercises/dp/maxProfit.html",
+    "path": "/notes/exercises/other/hammingDistance.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "最大子序和",
+    "title": "位1的个数",
     "headers": [
       {
         "level": 2,
@@ -566,17 +572,23 @@ export const searchIndex = [
       },
       {
         "level": 2,
-        "title": "题解",
-        "slug": "题解",
+        "title": "解法一",
+        "slug": "解法一",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "解法二",
+        "slug": "解法二",
         "children": []
       }
     ],
-    "path": "/notes/exercises/dp/maxSubArray.html",
+    "path": "/notes/exercises/other/hammingWeight.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "打家劫舍",
+    "title": "颠倒二进制位",
     "headers": [
       {
         "level": 2,
@@ -586,12 +598,18 @@ export const searchIndex = [
       },
       {
         "level": 2,
-        "title": "题解",
-        "slug": "题解",
+        "title": "解法一",
+        "slug": "解法一",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "解法二",
+        "slug": "解法二",
         "children": []
       }
     ],
-    "path": "/notes/exercises/dp/rob.html",
+    "path": "/notes/exercises/other/reverseBits.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -702,7 +720,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "杨辉三角",
+    "title": "爬楼梯",
     "headers": [
       {
         "level": 2,
@@ -717,12 +735,12 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/notes/exercises/other/generate.html",
+    "path": "/notes/exercises/dp/climbStairs.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "汉明距离",
+    "title": "买卖股票的最佳时机",
     "headers": [
       {
         "level": 2,
@@ -732,23 +750,17 @@ export const searchIndex = [
       },
       {
         "level": 2,
-        "title": "解法一",
-        "slug": "解法一",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "解法二",
-        "slug": "解法二",
+        "title": "题解",
+        "slug": "题解",
         "children": []
       }
     ],
-    "path": "/notes/exercises/other/hammingDistance.html",
+    "path": "/notes/exercises/dp/maxProfit.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "位1的个数",
+    "title": "最大子序和",
     "headers": [
       {
         "level": 2,
@@ -758,23 +770,17 @@ export const searchIndex = [
       },
       {
         "level": 2,
-        "title": "解法一",
-        "slug": "解法一",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "解法二",
-        "slug": "解法二",
+        "title": "题解",
+        "slug": "题解",
         "children": []
       }
     ],
-    "path": "/notes/exercises/other/hammingWeight.html",
+    "path": "/notes/exercises/dp/maxSubArray.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "颠倒二进制位",
+    "title": "打家劫舍",
     "headers": [
       {
         "level": 2,
@@ -784,18 +790,12 @@ export const searchIndex = [
       },
       {
         "level": 2,
-        "title": "解法一",
-        "slug": "解法一",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "解法二",
-        "slug": "解法二",
+        "title": "题解",
+        "slug": "题解",
         "children": []
       }
     ],
-    "path": "/notes/exercises/other/reverseBits.html",
+    "path": "/notes/exercises/dp/rob.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1237,16 +1237,3 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ searchIndex }) => {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  })
-}

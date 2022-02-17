@@ -47,14 +47,14 @@ export const pagesData = {
   "v-e9712402": () => import(/* webpackChunkName: "v-e9712402" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/chainTable/removeNthFromEnd.html.js").then(({ data }) => data),
   // path: /notes/exercises/chainTable/reverseList.html
   "v-2db372c0": () => import(/* webpackChunkName: "v-2db372c0" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/chainTable/reverseList.html.js").then(({ data }) => data),
-  // path: /notes/exercises/dp/climbStairs.html
-  "v-343ae9bc": () => import(/* webpackChunkName: "v-343ae9bc" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/dp/climbStairs.html.js").then(({ data }) => data),
-  // path: /notes/exercises/dp/maxProfit.html
-  "v-40dabf59": () => import(/* webpackChunkName: "v-40dabf59" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/dp/maxProfit.html.js").then(({ data }) => data),
-  // path: /notes/exercises/dp/maxSubArray.html
-  "v-f995cc78": () => import(/* webpackChunkName: "v-f995cc78" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/dp/maxSubArray.html.js").then(({ data }) => data),
-  // path: /notes/exercises/dp/rob.html
-  "v-e265b308": () => import(/* webpackChunkName: "v-e265b308" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/dp/rob.html.js").then(({ data }) => data),
+  // path: /notes/exercises/other/generate.html
+  "v-4595d8ea": () => import(/* webpackChunkName: "v-4595d8ea" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/other/generate.html.js").then(({ data }) => data),
+  // path: /notes/exercises/other/hammingDistance.html
+  "v-3379a075": () => import(/* webpackChunkName: "v-3379a075" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/other/hammingDistance.html.js").then(({ data }) => data),
+  // path: /notes/exercises/other/hammingWeight.html
+  "v-0cb727dc": () => import(/* webpackChunkName: "v-0cb727dc" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/other/hammingWeight.html.js").then(({ data }) => data),
+  // path: /notes/exercises/other/reverseBits.html
+  "v-7bf0e6aa": () => import(/* webpackChunkName: "v-7bf0e6aa" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/other/reverseBits.html.js").then(({ data }) => data),
   // path: /notes/exercises/math/countPrimes.html
   "v-9973a9fc": () => import(/* webpackChunkName: "v-9973a9fc" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/math/countPrimes.html.js").then(({ data }) => data),
   // path: /notes/exercises/math/fuzzBuzz.html
@@ -65,14 +65,14 @@ export const pagesData = {
   "v-9bfed394": () => import(/* webpackChunkName: "v-9bfed394" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/math/romanToInt.html.js").then(({ data }) => data),
   // path: /notes/exercises/math/simplifiedFractions.html
   "v-3986f368": () => import(/* webpackChunkName: "v-3986f368" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/math/simplifiedFractions.html.js").then(({ data }) => data),
-  // path: /notes/exercises/other/generate.html
-  "v-4595d8ea": () => import(/* webpackChunkName: "v-4595d8ea" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/other/generate.html.js").then(({ data }) => data),
-  // path: /notes/exercises/other/hammingDistance.html
-  "v-3379a075": () => import(/* webpackChunkName: "v-3379a075" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/other/hammingDistance.html.js").then(({ data }) => data),
-  // path: /notes/exercises/other/hammingWeight.html
-  "v-0cb727dc": () => import(/* webpackChunkName: "v-0cb727dc" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/other/hammingWeight.html.js").then(({ data }) => data),
-  // path: /notes/exercises/other/reverseBits.html
-  "v-7bf0e6aa": () => import(/* webpackChunkName: "v-7bf0e6aa" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/other/reverseBits.html.js").then(({ data }) => data),
+  // path: /notes/exercises/dp/climbStairs.html
+  "v-343ae9bc": () => import(/* webpackChunkName: "v-343ae9bc" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/dp/climbStairs.html.js").then(({ data }) => data),
+  // path: /notes/exercises/dp/maxProfit.html
+  "v-40dabf59": () => import(/* webpackChunkName: "v-40dabf59" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/dp/maxProfit.html.js").then(({ data }) => data),
+  // path: /notes/exercises/dp/maxSubArray.html
+  "v-f995cc78": () => import(/* webpackChunkName: "v-f995cc78" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/dp/maxSubArray.html.js").then(({ data }) => data),
+  // path: /notes/exercises/dp/rob.html
+  "v-e265b308": () => import(/* webpackChunkName: "v-e265b308" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/dp/rob.html.js").then(({ data }) => data),
   // path: /notes/exercises/sort/isBadVersion.html
   "v-697867a6": () => import(/* webpackChunkName: "v-697867a6" */"/Users/luhaifeng/code/mine/arithmetic-practice/docs/.vuepress/.temp/pages/notes/exercises/sort/isBadVersion.html.js").then(({ data }) => data),
   // path: /notes/exercises/stack/isValid.html
