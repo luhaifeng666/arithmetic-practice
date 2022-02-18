@@ -54,6 +54,7 @@
 <details>
   <summary>字符串</summary>
   
+  - [二进制求和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/addBinary.html)
   - [外观数列](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/countAndSay.html)
   - [一周中的第几天](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/dayOfTheWeek.html)
   - [字符串中的第一个唯一字符](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/firstUniqChar.html)
