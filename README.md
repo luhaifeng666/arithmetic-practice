@@ -83,6 +83,7 @@
   
   - [计数质数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/countPrimes.html)
   - [Fizz Buzz](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/fuzzBuzz.html)
+  - [ 杨辉三角 II](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/getRow.html)
   - [3的幂](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/isPowerOfThree.html)
   - [罗马数字转整数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/romanToInt.html)
   - [最简分数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/simplifiedFractions.html)
