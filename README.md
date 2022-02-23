@@ -88,6 +88,7 @@
   - [3的幂](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/isPowerOfThree.html)
   - [罗马数字转整数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/romanToInt.html)
   - [最简分数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/simplifiedFractions.html)
+  - [第 N 个泰波那契数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/tribonacci.html)
  </details> 
 <details>
   <summary>排序和搜索</summary>
