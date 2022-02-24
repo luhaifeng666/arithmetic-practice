@@ -22,6 +22,7 @@
   - [两个数组的交集 II](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/intersect.html)
   - [两个数组的交集](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/intersection.html)
   - [有效的数独](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/isValidSudoku.html)
+  - [多数元素](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/majorityElement.html)
   - [买卖股票的最佳时机 II](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/maxProfit.html)
   - [合并两个有序数组](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/merge.html)
   - [学生分数的最小差值](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/array/minimumDifference.html)
