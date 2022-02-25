@@ -1,6 +1,6 @@
 import {
   setupDevtoolsPlugin
-} from "./chunk-BTTSCAXW.js";
+} from "./chunk-JITC6OV2.js";
 import {
   computed,
   defineComponent,
@@ -18,29 +18,26 @@ import {
   unref,
   watch,
   watchEffect
-} from "./chunk-CYYBV4ML.js";
-import "./chunk-HSDCLG6E.js";
+} from "./chunk-7CEIKKEY.js";
+import "./chunk-FWQTREZY.js";
 import {
   init_define_COMMENT_OPTIONS,
+  init_define_DOCSEARCH_OPTIONS,
   init_define_EXTERNAL_LINK_ICON_LOCALES,
-  init_define_MZ_ZOOM_OPTIONS,
-  init_define_SEARCH_HOT_KEYS,
-  init_define_SEARCH_LOCALES
-} from "./chunk-YERIPBHI.js";
+  init_define_MZ_ZOOM_OPTIONS
+} from "./chunk-7ZX7RSRF.js";
 
 // dep:vue-router
 init_define_COMMENT_OPTIONS();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_MZ_ZOOM_OPTIONS();
-init_define_SEARCH_HOT_KEYS();
-init_define_SEARCH_LOCALES();
 
 // node_modules/vue-router/dist/vue-router.esm-bundler.js
 init_define_COMMENT_OPTIONS();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_MZ_ZOOM_OPTIONS();
-init_define_SEARCH_HOT_KEYS();
-init_define_SEARCH_LOCALES();
 var hasSymbol = typeof Symbol === "function" && typeof Symbol.toStringTag === "symbol";
 var PolySymbol = (name) => hasSymbol ? Symbol(true ? "[vue-router]: " + name : name) : (true ? "[vue-router]: " : "_vr_") + name;
 var matchedRouteKey = PolySymbol(true ? "router view location matched" : "rvlm");

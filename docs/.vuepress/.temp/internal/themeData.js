@@ -10,7 +10,9 @@ export const themeData = {
         "children": [
           "/notes/exercises/array/containsDuplicate.md",
           "/notes/exercises/array/intersect.md",
+          "/notes/exercises/array/intersection.md",
           "/notes/exercises/array/isValidSudoku.md",
+          "/notes/exercises/array/majorityElement.md",
           "/notes/exercises/array/maxProfit.md",
           "/notes/exercises/array/merge.md",
           "/notes/exercises/array/minimumDifference.md",
@@ -50,11 +52,13 @@ export const themeData = {
         "text": "字符串",
         "collapsible": true,
         "children": [
+          "/notes/exercises/string/addBinary.md",
           "/notes/exercises/string/countAndSay.md",
           "/notes/exercises/string/dayOfTheWeek.md",
           "/notes/exercises/string/firstUniqChar.md",
           "/notes/exercises/string/isAnagram.md",
           "/notes/exercises/string/isPalindrome.md",
+          "/notes/exercises/string/lengthOfLastWord.md",
           "/notes/exercises/string/longestCommonPrefix.md",
           "/notes/exercises/string/myAtoi.md",
           "/notes/exercises/string/reverse.md",
@@ -81,9 +85,12 @@ export const themeData = {
         "children": [
           "/notes/exercises/math/countPrimes.md",
           "/notes/exercises/math/fuzzBuzz.md",
+          "/notes/exercises/math/getNumbers.md",
+          "/notes/exercises/math/getRow.md",
           "/notes/exercises/math/isPowerOfThree.md",
           "/notes/exercises/math/romanToInt.md",
-          "/notes/exercises/math/simplifiedFractions.md"
+          "/notes/exercises/math/simplifiedFractions.md",
+          "/notes/exercises/math/tribonacci.md"
         ]
       },
       {
@@ -158,4 +165,17 @@ export const themeData = {
   "openInNewWindow": "open in new window",
   "toggleDarkMode": "toggle dark mode",
   "toggleSidebar": "toggle sidebar"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateThemeData) {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ themeData }) => {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  })
 }

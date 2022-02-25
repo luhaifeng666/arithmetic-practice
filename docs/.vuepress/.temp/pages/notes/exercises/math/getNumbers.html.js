@@ -1,7 +1,7 @@
 export const data = {
-  "key": "v-8fc83054",
-  "path": "/notes/exercises/string/strStr.html",
-  "title": "实现 strStr()",
+  "key": "v-ea71548e",
+  "path": "/notes/exercises/math/getNumbers.html",
+  "title": "复数乘法",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
@@ -14,19 +14,13 @@ export const data = {
     },
     {
       "level": 2,
-      "title": "解法一",
-      "slug": "解法一",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "解法二",
-      "slug": "解法二",
+      "title": "题解",
+      "slug": "题解",
       "children": []
     }
   ],
   "git": {
-    "updatedTime": 1638280330000,
+    "updatedTime": 1645757827000,
     "contributors": [
       {
         "name": "luhaifeng",
@@ -35,7 +29,7 @@ export const data = {
       }
     ]
   },
-  "filePathRelative": "notes/exercises/string/strStr.md"
+  "filePathRelative": "notes/exercises/math/getNumbers.md"
 }
 
 if (import.meta.webpackHot) {

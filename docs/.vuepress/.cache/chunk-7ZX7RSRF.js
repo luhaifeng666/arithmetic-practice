@@ -12,6 +12,12 @@ var init_define_COMMENT_OPTIONS = __esm({
   }
 });
 
+// <define:__DOCSEARCH_OPTIONS__>
+var init_define_DOCSEARCH_OPTIONS = __esm({
+  "<define:__DOCSEARCH_OPTIONS__>"() {
+  }
+});
+
 // <define:__EXTERNAL_LINK_ICON_LOCALES__>
 var init_define_EXTERNAL_LINK_ICON_LOCALES = __esm({
   "<define:__EXTERNAL_LINK_ICON_LOCALES__>"() {
@@ -24,24 +30,11 @@ var init_define_MZ_ZOOM_OPTIONS = __esm({
   }
 });
 
-// <define:__SEARCH_HOT_KEYS__>
-var init_define_SEARCH_HOT_KEYS = __esm({
-  "<define:__SEARCH_HOT_KEYS__>"() {
-  }
-});
-
-// <define:__SEARCH_LOCALES__>
-var init_define_SEARCH_LOCALES = __esm({
-  "<define:__SEARCH_LOCALES__>"() {
-  }
-});
-
 export {
   __commonJS,
   init_define_COMMENT_OPTIONS,
+  init_define_DOCSEARCH_OPTIONS,
   init_define_EXTERNAL_LINK_ICON_LOCALES,
-  init_define_MZ_ZOOM_OPTIONS,
-  init_define_SEARCH_HOT_KEYS,
-  init_define_SEARCH_LOCALES
+  init_define_MZ_ZOOM_OPTIONS
 };
-//# sourceMappingURL=chunk-YERIPBHI.js.map
+//# sourceMappingURL=chunk-7ZX7RSRF.js.map

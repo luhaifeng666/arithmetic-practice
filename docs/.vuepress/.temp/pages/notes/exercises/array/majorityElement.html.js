@@ -1,7 +1,7 @@
 export const data = {
-  "key": "v-8fc83054",
-  "path": "/notes/exercises/string/strStr.html",
-  "title": "实现 strStr()",
+  "key": "v-fb2f1cfa",
+  "path": "/notes/exercises/array/majorityElement.html",
+  "title": "多数元素",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
@@ -26,7 +26,7 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1638280330000,
+    "updatedTime": 1645683840000,
     "contributors": [
       {
         "name": "luhaifeng",
@@ -35,7 +35,7 @@ export const data = {
       }
     ]
   },
-  "filePathRelative": "notes/exercises/string/strStr.md"
+  "filePathRelative": "notes/exercises/array/majorityElement.md"
 }
 
 if (import.meta.webpackHot) {

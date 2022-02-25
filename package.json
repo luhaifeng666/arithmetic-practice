@@ -25,6 +25,7 @@
     "@tauri-apps/cli": "^1.0.0-rc.4",
     "@types/jest": "^27.0.1",
     "@vue/component-compiler-utils": "^3.3.0",
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.35",
     "@vuepress/plugin-search": "^2.0.0-beta.35",
     "@vuepress/shared-utils": "^1.9.7",
     "babel-jest": "^27.1.0",

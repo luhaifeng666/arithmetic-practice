@@ -1,17 +1,15 @@
 import {
   init_define_COMMENT_OPTIONS,
+  init_define_DOCSEARCH_OPTIONS,
   init_define_EXTERNAL_LINK_ICON_LOCALES,
-  init_define_MZ_ZOOM_OPTIONS,
-  init_define_SEARCH_HOT_KEYS,
-  init_define_SEARCH_LOCALES
-} from "./chunk-YERIPBHI.js";
+  init_define_MZ_ZOOM_OPTIONS
+} from "./chunk-7ZX7RSRF.js";
 
 // node_modules/@vue/shared/dist/shared.esm-bundler.js
 init_define_COMMENT_OPTIONS();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_MZ_ZOOM_OPTIONS();
-init_define_SEARCH_HOT_KEYS();
-init_define_SEARCH_LOCALES();
 function makeMap(str, expectsLowerCase) {
   const map = /* @__PURE__ */ Object.create(null);
   const list = str.split(",");
@@ -308,4 +306,4 @@ export {
   toNumber,
   getGlobalThis
 };
-//# sourceMappingURL=chunk-HSDCLG6E.js.map
+//# sourceMappingURL=chunk-FWQTREZY.js.map

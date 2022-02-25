@@ -136,7 +136,7 @@ import {
   withMemo,
   withModifiers,
   withScopeId
-} from "./chunk-CYYBV4ML.js";
+} from "./chunk-7CEIKKEY.js";
 import {
   camelize,
   capitalize,
@@ -145,21 +145,19 @@ import {
   normalizeStyle,
   toDisplayString,
   toHandlerKey
-} from "./chunk-HSDCLG6E.js";
+} from "./chunk-FWQTREZY.js";
 import {
   init_define_COMMENT_OPTIONS,
+  init_define_DOCSEARCH_OPTIONS,
   init_define_EXTERNAL_LINK_ICON_LOCALES,
-  init_define_MZ_ZOOM_OPTIONS,
-  init_define_SEARCH_HOT_KEYS,
-  init_define_SEARCH_LOCALES
-} from "./chunk-YERIPBHI.js";
+  init_define_MZ_ZOOM_OPTIONS
+} from "./chunk-7ZX7RSRF.js";
 
 // dep:vue
 init_define_COMMENT_OPTIONS();
+init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_MZ_ZOOM_OPTIONS();
-init_define_SEARCH_HOT_KEYS();
-init_define_SEARCH_LOCALES();
 export {
   BaseTransition,
   Comment,
