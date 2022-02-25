@@ -94,31 +94,31 @@ const config = {
 				}
 			}
 		],
-		[
-			'@vuepress/docsearch',
-			{
-				apiKey: '<API_KEY>',
-				indexName: '<INDEX_NAME>',
-				locales: {
-					'/': {
-						placeholder: 'Search',
-						translations: {
-							button: {
-								buttonText: 'Search',
-							},
-						},
-					},
-					'/zh/': {
-						placeholder: '搜索文档',
-						translations: {
-							button: {
-								buttonText: '搜索文档',
-							},
-						},
-					},
-				},
-			}
-		],
+		// [
+		// 	'@vuepress/docsearch',
+		// 	{
+		// 		apiKey: '<API_KEY>',
+		// 		indexName: '<INDEX_NAME>',
+		// 		locales: {
+		// 			'/': {
+		// 				placeholder: 'Search',
+		// 				translations: {
+		// 					button: {
+		// 						buttonText: 'Search',
+		// 					},
+		// 				},
+		// 			},
+		// 			'/zh/': {
+		// 				placeholder: '搜索文档',
+		// 				translations: {
+		// 					button: {
+		// 						buttonText: '搜索文档',
+		// 					},
+		// 				},
+		// 			},
+		// 		},
+		// 	}
+		// ],
 		[
 			'@vuepress/plugin-search',
 			{

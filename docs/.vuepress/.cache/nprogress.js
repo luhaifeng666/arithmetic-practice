@@ -1,18 +1,20 @@
 import {
   __commonJS,
   init_define_COMMENT_OPTIONS,
-  init_define_DOCSEARCH_OPTIONS,
   init_define_EXTERNAL_LINK_ICON_LOCALES,
-  init_define_MZ_ZOOM_OPTIONS
-} from "./chunk-7ZX7RSRF.js";
+  init_define_MZ_ZOOM_OPTIONS,
+  init_define_SEARCH_HOT_KEYS,
+  init_define_SEARCH_LOCALES
+} from "./chunk-YERIPBHI.js";
 
 // node_modules/nprogress/nprogress.js
 var require_nprogress = __commonJS({
   "node_modules/nprogress/nprogress.js"(exports, module) {
     init_define_COMMENT_OPTIONS();
-    init_define_DOCSEARCH_OPTIONS();
     init_define_EXTERNAL_LINK_ICON_LOCALES();
     init_define_MZ_ZOOM_OPTIONS();
+    init_define_SEARCH_HOT_KEYS();
+    init_define_SEARCH_LOCALES();
     (function(root, factory) {
       if (typeof define === "function" && define.amd) {
         define(factory);
@@ -289,9 +291,10 @@ var require_nprogress = __commonJS({
 
 // dep:nprogress
 init_define_COMMENT_OPTIONS();
-init_define_DOCSEARCH_OPTIONS();
 init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 var nprogress_default = require_nprogress();
 export {
   nprogress_default as default
