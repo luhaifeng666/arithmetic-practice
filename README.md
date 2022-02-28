@@ -74,6 +74,7 @@
 <details>
   <summary>链表</summary>
   
+  - [删除排序链表中的重复元素](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/deleteDuplicates.html)
   - [删除链表中的节点](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/deleteNode.html)
   - [环形链表](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/hasCycle.html)
   - [回文链表](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/chainTable/isPalindrome.html)
