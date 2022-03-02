@@ -26,10 +26,10 @@ solution.shuffle();    // 随机返回数组 [1, 2, 3] 打乱后的结果。例�
 ```
 
 ::: tip 提示：
-1 <= nums.length <= 200
--10 ^ 6 <= nums[i] <= 10 ^ 6
-nums 中的所有元素都是 唯一的
-最多可以调用 5 * 10 ^ 4 次 `reset` 和 `shuffle`
+- 1 <= nums.length <= 200
+- -10 ^ 6 <= nums[i] <= 10 ^ 6
+- nums 中的所有元素都是 唯一的
+- 最多可以调用 5 * 10 ^ 4 次 `reset` 和 `shuffle`
 :::
 
 ## 题解

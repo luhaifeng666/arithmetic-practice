@@ -159,6 +159,32 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "增量元素之间的最大差值",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题目",
+        "slug": "题目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "解法一",
+        "slug": "解法一",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "解法二",
+        "slug": "解法二",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/array/maximumDifference.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "合并两个有序数组",
     "headers": [
       {
@@ -429,6 +455,26 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "删除排序链表中的重复元素",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题目",
+        "slug": "题目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "题解",
+        "slug": "题解",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/chainTable/deleteDuplicates.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "删除链表中的节点",
     "headers": [
       {
@@ -558,6 +604,86 @@ export const searchIndex = [
       }
     ],
     "path": "/notes/exercises/chainTable/reverseList.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "爬楼梯",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题目",
+        "slug": "题目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "题解",
+        "slug": "题解",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/dp/climbStairs.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "买卖股票的最佳时机",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题目",
+        "slug": "题目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "题解",
+        "slug": "题解",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/dp/maxProfit.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "最大子序和",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题目",
+        "slug": "题目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "题解",
+        "slug": "题解",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/dp/maxSubArray.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "打家劫舍",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题目",
+        "slug": "题目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "题解",
+        "slug": "题解",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/dp/rob.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -728,106 +854,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "爬楼梯",
-    "headers": [
-      {
-        "level": 2,
-        "title": "题目",
-        "slug": "题目",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "题解",
-        "slug": "题解",
-        "children": []
-      }
-    ],
-    "path": "/notes/exercises/dp/climbStairs.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "买卖股票的最佳时机",
-    "headers": [
-      {
-        "level": 2,
-        "title": "题目",
-        "slug": "题目",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "题解",
-        "slug": "题解",
-        "children": []
-      }
-    ],
-    "path": "/notes/exercises/dp/maxProfit.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "最大子序和",
-    "headers": [
-      {
-        "level": 2,
-        "title": "题目",
-        "slug": "题目",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "题解",
-        "slug": "题解",
-        "children": []
-      }
-    ],
-    "path": "/notes/exercises/dp/maxSubArray.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "打家劫舍",
-    "headers": [
-      {
-        "level": 2,
-        "title": "题目",
-        "slug": "题目",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "题解",
-        "slug": "题解",
-        "children": []
-      }
-    ],
-    "path": "/notes/exercises/dp/rob.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "第一个错误的版本",
-    "headers": [
-      {
-        "level": 2,
-        "title": "题目",
-        "slug": "题目",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "题解",
-        "slug": "题解",
-        "children": []
-      }
-    ],
-    "path": "/notes/exercises/sort/isBadVersion.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "杨辉三角",
     "headers": [
       {
@@ -926,6 +952,26 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "第一个错误的版本",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题目",
+        "slug": "题目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "题解",
+        "slug": "题解",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/sort/isBadVersion.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "有效的括号",
     "headers": [
       {
@@ -956,132 +1002,6 @@ export const searchIndex = [
       }
     ],
     "path": "/notes/exercises/stack/minStack.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "对称二叉树",
-    "headers": [
-      {
-        "level": 2,
-        "title": "题目",
-        "slug": "题目",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "题解",
-        "slug": "题解",
-        "children": []
-      }
-    ],
-    "path": "/notes/exercises/tree/isSymmetric.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "验证二叉搜索树",
-    "headers": [
-      {
-        "level": 2,
-        "title": "题解",
-        "slug": "题解",
-        "children": []
-      }
-    ],
-    "path": "/notes/exercises/tree/isValidBST.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "二叉树的层序遍历",
-    "headers": [
-      {
-        "level": 2,
-        "title": "题目",
-        "slug": "题目",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "题解",
-        "slug": "题解",
-        "children": []
-      }
-    ],
-    "path": "/notes/exercises/tree/levelNode.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "二叉树的最大深度",
-    "headers": [
-      {
-        "level": 2,
-        "title": "题目",
-        "slug": "题目",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "解法一",
-        "slug": "解法一",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "解法二",
-        "slug": "解法二",
-        "children": []
-      }
-    ],
-    "path": "/notes/exercises/tree/maxDepth.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "二叉树的前序遍历",
-    "headers": [
-      {
-        "level": 2,
-        "title": "题目",
-        "slug": "题目",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "解法一",
-        "slug": "解法一",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "解法二",
-        "slug": "解法二",
-        "children": []
-      }
-    ],
-    "path": "/notes/exercises/tree/preorderTraversal.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "将有序数组转换为二叉搜索树",
-    "headers": [
-      {
-        "level": 2,
-        "title": "题目",
-        "slug": "题目",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "题解",
-        "slug": "题解",
-        "children": []
-      }
-    ],
-    "path": "/notes/exercises/tree/sortedArrayToBST.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1372,6 +1292,132 @@ export const searchIndex = [
       }
     ],
     "path": "/notes/exercises/string/strStr.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "对称二叉树",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题目",
+        "slug": "题目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "题解",
+        "slug": "题解",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/tree/isSymmetric.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "验证二叉搜索树",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题解",
+        "slug": "题解",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/tree/isValidBST.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "二叉树的层序遍历",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题目",
+        "slug": "题目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "题解",
+        "slug": "题解",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/tree/levelNode.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "二叉树的最大深度",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题目",
+        "slug": "题目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "解法一",
+        "slug": "解法一",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "解法二",
+        "slug": "解法二",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/tree/maxDepth.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "二叉树的前序遍历",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题目",
+        "slug": "题目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "解法一",
+        "slug": "解法一",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "解法二",
+        "slug": "解法二",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/tree/preorderTraversal.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "将有序数组转换为二叉搜索树",
+    "headers": [
+      {
+        "level": 2,
+        "title": "题目",
+        "slug": "题目",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "题解",
+        "slug": "题解",
+        "children": []
+      }
+    ],
+    "path": "/notes/exercises/tree/sortedArrayToBST.html",
     "pathLocale": "/",
     "extraFields": []
   },

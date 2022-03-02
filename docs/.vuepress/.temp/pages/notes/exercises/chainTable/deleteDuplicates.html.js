@@ -1,25 +1,35 @@
 export const data = {
-  "key": "v-8daa1a0e",
-  "path": "/",
-  "title": "",
+  "key": "v-63227fdf",
+  "path": "/notes/exercises/chainTable/deleteDuplicates.html",
+  "title": "删除排序链表中的重复元素",
   "lang": "en-US",
-  "frontmatter": {
-    "home": true,
-    "heroImage": "/images/logo.png"
-  },
+  "frontmatter": {},
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "题目",
+      "slug": "题目",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "题解",
+      "slug": "题解",
+      "children": []
+    }
+  ],
   "git": {
     "updatedTime": 1646052794000,
     "contributors": [
       {
         "name": "luhaifeng",
         "email": "lhf222458@ncarzone.com",
-        "commits": 20
+        "commits": 1
       }
     ]
   },
-  "filePathRelative": "README.md"
+  "filePathRelative": "notes/exercises/chainTable/deleteDuplicates.md"
 }
 
 if (import.meta.webpackHot) {

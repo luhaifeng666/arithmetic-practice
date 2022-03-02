@@ -14,6 +14,7 @@ export const themeData = {
           "/notes/exercises/array/isValidSudoku.md",
           "/notes/exercises/array/majorityElement.md",
           "/notes/exercises/array/maxProfit.md",
+          "/notes/exercises/array/maximumDifference.md",
           "/notes/exercises/array/merge.md",
           "/notes/exercises/array/minimumDifference.md",
           "/notes/exercises/array/missingNumber.md",
@@ -71,6 +72,7 @@ export const themeData = {
         "text": "链表",
         "collapsible": true,
         "children": [
+          "/notes/exercises/chainTable/deleteDuplicates.md",
           "/notes/exercises/chainTable/deleteNode.md",
           "/notes/exercises/chainTable/hasCycle.md",
           "/notes/exercises/chainTable/isPalindrome.md",
