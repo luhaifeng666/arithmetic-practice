@@ -110,6 +110,7 @@
 <details>
   <summary>其他</summary>
   
+  - [各位相加](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/addDigits.html)
   - [杨辉三角](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/generate.html)
   - [汉明距离](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/hammingDistance.html)
   - [位1的个数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/other/hammingWeight.html)
