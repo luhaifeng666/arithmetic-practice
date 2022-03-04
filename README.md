@@ -90,6 +90,7 @@
   - [复数乘法](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/getNumbers.html)
   - [ 杨辉三角 II](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/getRow.html)
   - [3的幂](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/isPowerOfThree.html)
+  - [x 的平方根 ](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/mySqrt.html)
   - [罗马数字转整数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/romanToInt.html)
   - [最简分数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/simplifiedFractions.html)
   - [第 N 个泰波那契数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/math/tribonacci.html)
