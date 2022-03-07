@@ -58,6 +58,7 @@
   <summary>字符串</summary>
   
   - [二进制求和](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/addBinary.html)
+  - [七进制数](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/convertToBase7.html)
   - [外观数列](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/countAndSay.html)
   - [一周中的第几天](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/dayOfTheWeek.html)
   - [最长特殊序列 Ⅰ](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/string/findLUSlength.html)
