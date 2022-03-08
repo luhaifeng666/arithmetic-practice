@@ -1,4 +1,5 @@
 /**
+ * Excel表列名称
  * @param {number} columnNumber
  * @return {string}
  */
