@@ -35,9 +35,9 @@ for (int i = 0; i < len; i++) {
 ```
 
 ::: tip 提示：
-0 <= nums.length <= 100
-0 <= nums[i] <= 50
-0 <= val <= 100
+- 0 <= nums.length <= 100
+- 0 <= nums[i] <= 50
+- 0 <= val <= 100
 :::
 
 ## 题解
