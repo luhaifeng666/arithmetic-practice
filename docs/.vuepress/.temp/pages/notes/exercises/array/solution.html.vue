@@ -18,10 +18,12 @@ solution.shuffle();    // 打乱数组 [1,2,3] 并返回结果。任何 [1,2,3]�
 solution.reset();      // 重设数组到它的初始状态 [1, 2, 3] 。返回 [1, 2, 3]
 solution.shuffle();    // 随机返回数组 [1, 2, 3] 打乱后的结果。例如，返回 [1, 3, 2]
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br></div></div><div class="custom-container tip"><p class="custom-container-title">提示：</p>
-<p>1 &lt;= nums.length &lt;= 200
--10 ^ 6 &lt;= nums[i] &lt;= 10 ^ 6
-nums 中的所有元素都是 唯一的
-最多可以调用 5 * 10 ^ 4 次 <code>reset</code> 和 <code>shuffle</code></p>
+<ul>
+<li>1 &lt;= nums.length &lt;= 200</li>
+<li>-10 ^ 6 &lt;= nums[i] &lt;= 10 ^ 6</li>
+<li>nums 中的所有元素都是 唯一的</li>
+<li>最多可以调用 5 * 10 ^ 4 次 <code>reset</code> 和 <code>shuffle</code></li>
+</ul>
 </div>
 <h2 id="题解" tabindex="-1"><a class="header-anchor" href="#题解" aria-hidden="true">#</a> 题解</h2>
 <div class="custom-container tip"><p class="custom-container-title">解题思路</p>

@@ -54,8 +54,11 @@ export const themeData = {
         "collapsible": true,
         "children": [
           "/notes/exercises/string/addBinary.md",
+          "/notes/exercises/string/convertToBase7.md",
+          "/notes/exercises/string/convertToTitle.md",
           "/notes/exercises/string/countAndSay.md",
           "/notes/exercises/string/dayOfTheWeek.md",
+          "/notes/exercises/string/findLUSlength.md",
           "/notes/exercises/string/firstUniqChar.md",
           "/notes/exercises/string/isAnagram.md",
           "/notes/exercises/string/isPalindrome.md",
@@ -63,6 +66,7 @@ export const themeData = {
           "/notes/exercises/string/longestCommonPrefix.md",
           "/notes/exercises/string/myAtoi.md",
           "/notes/exercises/string/reverse.md",
+          "/notes/exercises/string/reverseOnlyLetters.md",
           "/notes/exercises/string/reverseString.md",
           "/notes/exercises/string/sortSentence.md",
           "/notes/exercises/string/strStr.md"
@@ -90,6 +94,7 @@ export const themeData = {
           "/notes/exercises/math/getNumbers.md",
           "/notes/exercises/math/getRow.md",
           "/notes/exercises/math/isPowerOfThree.md",
+          "/notes/exercises/math/mySqrt.md",
           "/notes/exercises/math/romanToInt.md",
           "/notes/exercises/math/simplifiedFractions.md",
           "/notes/exercises/math/tribonacci.md"
@@ -116,6 +121,7 @@ export const themeData = {
         "text": "其他",
         "collapsible": true,
         "children": [
+          "/notes/exercises/other/addDigits.md",
           "/notes/exercises/other/generate.md",
           "/notes/exercises/other/hammingDistance.md",
           "/notes/exercises/other/hammingWeight.md",

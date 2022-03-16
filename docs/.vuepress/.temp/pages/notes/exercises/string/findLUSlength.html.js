@@ -1,7 +1,7 @@
 export const data = {
-  "key": "v-a9f3511c",
-  "path": "/notes/exercises/array/removeElement.html",
-  "title": "移除元素",
+  "key": "v-11a8c9a5",
+  "path": "/notes/exercises/string/findLUSlength.html",
+  "title": "最长特殊序列 Ⅰ",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
@@ -20,7 +20,7 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1647100378000,
+    "updatedTime": 1646448871000,
     "contributors": [
       {
         "name": "luhaifeng",
@@ -29,7 +29,7 @@ export const data = {
       }
     ]
   },
-  "filePathRelative": "notes/exercises/array/removeElement.md"
+  "filePathRelative": "notes/exercises/string/findLUSlength.md"
 }
 
 if (import.meta.webpackHot) {

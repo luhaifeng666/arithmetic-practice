@@ -20,12 +20,12 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1640421970000,
+    "updatedTime": 1646232921000,
     "contributors": [
       {
         "name": "luhaifeng",
         "email": "lhf222458@ncarzone.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   },

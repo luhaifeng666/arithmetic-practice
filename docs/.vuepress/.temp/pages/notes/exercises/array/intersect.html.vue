@@ -19,9 +19,11 @@
 </ul>
 <h2 id="题解" tabindex="-1"><a class="header-anchor" href="#题解" aria-hidden="true">#</a> 题解</h2>
 <div class="custom-container tip"><p class="custom-container-title">解题思路</p>
-<p>生成一个map，遍历其中一个数组，以其中的值为key，以该值出现的次数为value存入到map中。<br>
-此时遍历另一个数组，将每一个值与map中存储的key进行比较。<br>
-如果在map中存在，则说明是交集数，则存入数组，并将map中对应key的value-1</p>
+<ul>
+<li>生成一个map，遍历其中一个数组，以其中的值为key，以该值出现的次数为value存入到map中。</li>
+<li>此时遍历另一个数组，将每一个值与map中存储的key进行比较。</li>
+<li>如果在map中存在，则说明是交集数，则存入数组，并将map中对应key的value-1</li>
+</ul>
 </div>
 <div class="language-typescript ext-ts line-numbers-mode"><pre v-pre class="language-typescript"><code><span class="token doc-comment comment">/**
  * <span class="token keyword">@param</span> <span class="token punctuation">{</span>number[]<span class="token punctuation">}</span> nums1

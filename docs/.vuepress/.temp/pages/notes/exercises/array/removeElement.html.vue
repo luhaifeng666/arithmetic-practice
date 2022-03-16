@@ -23,9 +23,11 @@ int len <span class="token operator">=</span> <span class="token function">remov
 输出：5, nums = [0,1,4,0,3]
 解释：函数应该返回新的长度 5, 并且 nums 中的前五个元素为 0, 1, 3, 0, 4。注意这五个元素可为任意顺序。你不需要考虑数组中超出新长度后面的元素。
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><div class="custom-container tip"><p class="custom-container-title">提示：</p>
-<p>0 &lt;= nums.length &lt;= 100
-0 &lt;= nums[i] &lt;= 50
-0 &lt;= val &lt;= 100</p>
+<ul>
+<li>0 &lt;= nums.length &lt;= 100</li>
+<li>0 &lt;= nums[i] &lt;= 50</li>
+<li>0 &lt;= val &lt;= 100</li>
+</ul>
 </div>
 </div>
 <h2 id="题解" tabindex="-1"><a class="header-anchor" href="#题解" aria-hidden="true">#</a> 题解</h2>

@@ -1,7 +1,7 @@
 export const data = {
-  "key": "v-a9f3511c",
-  "path": "/notes/exercises/array/removeElement.html",
-  "title": "移除元素",
+  "key": "v-25b24028",
+  "path": "/notes/exercises/string/convertToTitle.html",
+  "title": "Excel表列名称",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
@@ -20,16 +20,16 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1647100378000,
+    "updatedTime": 1646755891000,
     "contributors": [
       {
         "name": "luhaifeng",
         "email": "lhf222458@ncarzone.com",
-        "commits": 2
+        "commits": 1
       }
     ]
   },
-  "filePathRelative": "notes/exercises/array/removeElement.md"
+  "filePathRelative": "notes/exercises/string/convertToTitle.md"
 }
 
 if (import.meta.webpackHot) {
