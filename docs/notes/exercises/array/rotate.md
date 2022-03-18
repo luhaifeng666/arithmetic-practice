@@ -46,6 +46,7 @@
 
 ```ts
 /**
+ * 旋转数组
  * @param {number[]} nums
  * @param {number} k
  * @return {void} Do not return anything, modify nums in-place instead.
@@ -67,6 +68,7 @@ function rotate (nums: number[], k: number): void {
 
 ```ts
 /**
+ * 旋转数组
  * @param {number[]} nums
  * @param {number} k
  * @return {void} Do not return anything, modify nums in-place instead.
