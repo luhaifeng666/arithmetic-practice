@@ -41,6 +41,7 @@
 <details>
   <summary>树</summary>
   
+  - [两数之和 IV - 输入 BST](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/findTarget.html)
   - [对称二叉树](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/isSymmetric.html)
   - [验证二叉搜索树](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/isValidBST.html)
   - [二叉树的层序遍历](https://luhaifeng666.github.io/arithmetic-practice/notes/exercises/tree/levelNode.html)
